@@ -13,6 +13,6 @@
     "qrcode": "^1.4.4",
     "qs": "^6.9.1",
     "speakeasy": "^2.0.0",
-    "terminal-image": "^0.2.0"
+    "terminal-image": "^2.0.0"
   }
 }
